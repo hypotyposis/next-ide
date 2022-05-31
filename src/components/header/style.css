@@ -1,0 +1,100 @@
+.buttonActive {
+    --tw-bg-opacity : 1;
+    background-color: rgb(145 252 206 / var(--tw-bg-opacity)) ! important;
+    color           : rgb(0 0 0 / var(--tw-text-opacity)) ! important;
+    border-style    : solid ! important;
+    border-width    : 2px ! important;
+    margin-right    : 1.25*0.75rem ! important;
+    position        : relative ! important;
+    height          : 2.5*0.75rem ! important;
+    min-width       : 80px !important;
+    width           : 8*0.75rem ! important;
+    border-radius   : 9999px ! important;
+    font-weight     : 400 !important;
+    line-height     : 2*0.75rem !important;
+    text-transform  : none !important;
+    padding-left    : 0.75*0.75rem !important;
+    padding-right   : 0.75*0.75rem ! important;
+    min-height      : 2*0.75rem ! important;
+    font-size       : .875*0.75rem ! important;
+    margin-bottom   : 1.25*0.75rem ! important;
+    font-family     : oswald !important;
+}
+
+._buttonActive {
+    --tw-bg-opacity : 1;
+    background-color: rgb(145 252 206 / var(--tw-bg-opacity)) ! important;
+    color           : rgb(0 0 0 / var(--tw-text-opacity)) ! important;
+    border-style    : solid ! important;
+    border-width    : 2px ! important;
+    margin-right    : 1.25*0.75rem ! important;
+    position        : relative ! important;
+    height          : 2.5*0.75rem ! important;
+    min-width       : 80px !important;
+    width           : 8*0.75rem ! important;
+    border-radius   : 9999px ! important;
+    font-weight     : 400;
+    line-height     : 2*0.75rem;
+    text-transform  : none;
+    padding-left    : 0.75*0.75rem;
+    padding-right   : 0.75*0.75rem;
+    min-height      : 2*0.75rem;
+    font-size       : .875*0.75rem;
+    margin-bottom   : 1.25*0.75rem;
+    font-family     : oswald !important;
+}
+
+.text0 {
+    font-weight: 600 !important;
+}
+
+.text1 {
+    font-family: 'Courier New', Courier, monospace !important;
+    font-style : italic !important;
+    font-weight: 600 !important;
+}
+
+.text2 {
+    font-family: 'Courier New', Courier, monospace !important;
+    font-style : italic !important;
+    font-weight: 600 !important;
+}
+
+.text3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style : bold !important;
+    font-weight: 600 !important;
+    font-size  : 20px;
+}
+
+.mock {
+    width : 252px;
+    height: 328px;
+}
+
+.img0 {
+    /* position  : absolute; */
+    inset        : 0px;
+    box-sizing   : border-box;
+    padding      : 0px;
+    border       : none;
+    margin       : auto;
+    display      : flex;
+    width        : 25px;
+    height       : 25px;
+    /* min-width : 100%;
+    max-width    : 100%;
+    min-height   : 100%;
+    max-height   : 100%;
+    object-fit   : contain; */
+}
+
+.filetree-action-separator {
+    height      : 6px;
+    width       : 0;
+    border-right: 1px solid var(--foreground-dimmest);
+}
+
+.btn0 {
+    margin-left: 5px !important;
+}

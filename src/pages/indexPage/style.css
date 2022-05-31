@@ -1,0 +1,27 @@
+.text4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.list-item {
+    background-color: transparent ! important;
+    color           : rgb(0 0 0 / var(--tw-text-opacity)) ! important;
+    text-transform  : none ! important;
+    display         : flex ! important;
+    flex-direction  : row ! important;
+    justify-content : flex-start ! important;
+    margin-bottom   : 4px ! important;
+}
+
+.chosen {
+    background-color: #0f87ff ! important;
+    opacity         : 0.9;
+    color           : rgb(0 0 0 / var(--tw-text-opacity)) ! important;
+}
+
+.svg0 {
+    margin-left: 60px;
+}
+
+.svg1 {
+    color: rgb(0 0 0 / var(--tw-text-opacity))
+}
